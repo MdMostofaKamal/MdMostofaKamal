@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmostofakamal&label=Profile%20views&color=0e75b6&style=flat" alt="mdmostofakamal" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing Framework like Selenium,REST Assured API Automation + CL**
+- 🌱 I’m currently learning **Automation Testing Framework like Selenium,REST Assured API Automation + CL,App Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdMostofaKamal?tab=repositories](https://github.com/MdMostofaKamal?tab=repositories)
 
